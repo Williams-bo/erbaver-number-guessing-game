@@ -1,0 +1,16 @@
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame.deps.json
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame.runtimeconfig.json
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame.runtimeconfig.dev.json
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame.dll
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/ref/numberguessinggame.dll
+/home/williams/Desktop/Erbaver/numberguessinggame/bin/Debug/net5.0/numberguessinggame.pdb
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.csproj.AssemblyReference.cache
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.AssemblyInfoInputs.cache
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.AssemblyInfo.cs
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.csproj.CoreCompileInputs.cache
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.dll
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/ref/numberguessinggame.dll
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.pdb
+/home/williams/Desktop/Erbaver/numberguessinggame/obj/Debug/net5.0/numberguessinggame.genruntimeconfig.cache
